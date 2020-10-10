@@ -15,5 +15,7 @@ public class G {
         //hjhjhjh
         //opopop
         //uyuyuy
+        System.out.println("1");
+        System.out.println("2");
     }
 }
